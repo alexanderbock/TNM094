@@ -1,0 +1,3 @@
+[submodule "ghoul"]
+	path = ghoul
+	url = https://github.com/openspace/Ghoul.git
